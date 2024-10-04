@@ -73,4 +73,5 @@ To customize the build further, you can modify the following in conf/local.conf:
 - [Yocto Project Documentation](https://docs.yoctoproject.org/)
 - [BeagleBone Support in Yocto](https://www.yoctoproject.org/docs/current/ref-manual/ref-manual.html#_beaglebone)
 - [Adding Host Packages](https://docs.yoctoproject.org/brief-yoctoprojectqs/yocto-project-quick-build-guide.html#adding-host-packages)
+- For more detailed hardware specifications and documentation, refer to the [BeagleBone Black Documentation](https://docs.beagleboard.org/boards/beaglebone/black/ch03.html).
 
